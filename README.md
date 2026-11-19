@@ -1,7 +1,8 @@
-# 🚀 CRM Esplai
+# 🚀 CRM Esplai — mAIte
 
 <p align="center">
-  <strong>Proyecto finalizado · Bootcamp FullStack Java_10 · Fundación Esplai</strong>
+  <strong>mAIte · CRM de empleabilidad con IA</strong><br>
+  Proyecto finalizado · Bootcamp FullStack Java_10 · Fundación Esplai
 </p>
 
 <p align="center">
@@ -15,7 +16,7 @@
 
 ## ✨ Sobre el proyecto
 
-**CRM Esplai** es una aplicación full-stack creada para centralizar la gestión de la relación entre el alumnado, las empresas y sus oportunidades laborales. Facilita el seguimiento de candidaturas y entrevistas, la organización de información relevante y el apoyo al proceso de inserción laboral.
+**CRM Esplai**, , también llamado **mAIte**, es una aplicación full-stack de empleabilidad con IA creada para centralizar la gestión de la relación entre el alumnado, las empresas y sus oportunidades laborales. Facilita el seguimiento de candidaturas y entrevistas, la organización de información relevante y el apoyo al proceso de inserción laboral.
 
 > ℹ️ Este repositorio está pensado como muestra de portafolio. Todos los datos que se publiquen son de demostración y nunca contendran información personal, credenciales ni claves de servicios externos.
 
